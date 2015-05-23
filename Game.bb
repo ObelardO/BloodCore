@@ -1,6 +1,6 @@
 ;==================================================================
 ;Project Title:    BloodCore 
-;Author:     	     (c) 2015 ObelardO
+;Author:     	   (c) 2015 ObelardO
 ;Email:            obelardos@gmail.com
 ;Version:          Alpha #7
 ;Date:             18.05.15
